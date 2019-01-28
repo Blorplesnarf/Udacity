@@ -1,3 +1,10 @@
-#Readme
+# Readme
 
 File to save information, projects and resources for Deep Leaning Nano Degree 2018.
+
+Projects include:
+ - Basic neural net for regression (prediction of bike usage).
+ - Convolutional neural net for object detection in images.
+ - Generative adversarial networks for image generation.
+ - Recurrent neural nets (LSTM) for language processing and generation.
+ - Reinforcement learning (having a quadcopter learn how to fly).
